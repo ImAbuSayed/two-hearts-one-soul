@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Two Hearts One Soul
+
+This log tracks the cryptographic history and versioning for the song **Two Hearts One Soul** (two-hearts-one-soul).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-30T20:43:18.661546 | `v1` | `d10c4ab22f713fd842b7c9e6cea1356b093760bf3a1f86fd1c8fe2136a5f4b4a` | `760bfb8210c1a69e379b6fdab4cf1095359fda8fb81b2595325a4163b6195b99` | `2026-05-30_two-hearts-one-soul-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
