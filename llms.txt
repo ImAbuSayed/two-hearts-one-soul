@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/two-hearts-one-soul/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Two Hearts One Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/two-hearts-one-soul/) |
+| **Get License** | [Obtain a Music License for Two Hearts One Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/two-hearts-one-soul/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2428)
 
 ---
 
